@@ -1,7 +1,7 @@
 ---
 title: GitHub Privacy Statement
 redirect_from:
-  - /privacy/
+  - /privacy/Kata
   - /privacy-policy/
   - /privacy-statement/
   - /github-privacy-policy/
